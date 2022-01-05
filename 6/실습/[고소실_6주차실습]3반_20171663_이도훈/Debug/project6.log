@@ -1,0 +1,13 @@
+﻿  main.cpp
+  practice3_1.cpp
+  practice3_2.cpp
+C:\Users\topia1998\Desktop\족보\고소실\6\실습\[고소실_6주차실습]3반_20171663_이도훈\practice3_2.cpp(85,65): warning C4477: 'fprintf' : 서식 문자열 '%lf'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\topia1998\Desktop\족보\고소실\6\실습\[고소실_6주차실습]3반_20171663_이도훈\practice3_2.cpp(86,25): warning C4477: 'fprintf' : 서식 문자열 '%lf'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+  practice3_3.cpp
+  practice3_4.cpp
+  practice3_5.cpp
+  practice3_6.cpp
+  practice3_7.cpp
+  practice3_8.cpp
+  코드를 생성하고 있습니다...
+  project6.vcxproj -> C:\Users\topia1998\Desktop\족보\고소실\6\실습\[고소실_6주차실습]3반_20171663_이도훈\Debug\project6.exe
