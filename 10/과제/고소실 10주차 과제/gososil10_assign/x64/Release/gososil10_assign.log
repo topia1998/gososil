@@ -1,0 +1,37 @@
+﻿  gososil_10_과제.cpp
+C:\Users\topia1998\Desktop\gososil10_assign_배포용\gososil10_assign\gososil_10_과제.cpp(41,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\topia1998\Desktop\gososil10_assign_배포용\gososil10_assign\gososil_10_과제.cpp(96,28): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\topia1998\Desktop\gososil10_assign_배포용\gososil10_assign\gososil_10_과제.cpp(125,26): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\gososil10_assign_배포용\gososil10_assign\gososil_10_과제.cpp(126,20): warning C4307: '*': 부호 있는 정수 계열 상수 오버플로입니다.
+C:\Users\topia1998\Desktop\gososil10_assign_배포용\gososil10_assign\gososil_10_과제.cpp(135,13): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\gososil10_assign_배포용\gososil10_assign\gososil_10_과제.cpp(145,34): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\gososil10_assign_배포용\gososil10_assign\gososil_10_과제.cpp(146,34): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\gososil10_assign_배포용\gososil10_assign\gososil_10_과제.cpp(148,33): warning C4244: '/=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\gososil10_assign_배포용\gososil10_assign\gososil_10_과제.cpp(149,33): warning C4244: '/=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\gososil10_assign_배포용\gososil10_assign\gososil_10_과제.cpp(170,19): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\gososil10_assign_배포용\gososil10_assign\gososil_10_과제.cpp(171,19): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\gososil10_assign_배포용\gososil10_assign\gososil_10_과제.cpp(189,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\gososil10_assign_배포용\gososil10_assign\gososil_10_과제.cpp(204,27): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\gososil10_assign_배포용\gososil10_assign\gososil_10_과제.cpp(213,27): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\gososil10_assign_배포용\gososil10_assign\gososil_10_과제.cpp(240,13): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\gososil10_assign_배포용\gososil10_assign\gososil_10_과제.cpp(243,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\gososil10_assign_배포용\gososil10_assign\gososil_10_과제.cpp(277,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\gososil10_assign_배포용\gososil10_assign\gososil_10_과제.cpp(280,15): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\gososil10_assign_배포용\gososil10_assign\gososil_10_과제.cpp(281,15): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\gososil10_assign_배포용\gososil10_assign\gososil_10_과제.cpp(329,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\gososil10_assign_배포용\gososil10_assign\gososil_10_과제.cpp(333,15): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\gososil10_assign_배포용\gososil10_assign\gososil_10_과제.cpp(334,15): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\gososil10_assign_배포용\gososil10_assign\gososil_10_과제.cpp(341,15): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\gososil10_assign_배포용\gososil10_assign\gososil_10_과제.cpp(344,15): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\gososil10_assign_배포용\gososil10_assign\gososil_10_과제.cpp(368,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\gososil10_assign_배포용\gososil10_assign\gososil_10_과제.cpp(372,19): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\gososil10_assign_배포용\gososil10_assign\gososil_10_과제.cpp(380,19): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\gososil10_assign_배포용\gososil10_assign\gososil_10_과제.cpp(383,19): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\gososil10_assign_배포용\gososil10_assign\gososil_10_과제.cpp(386,19): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\gososil10_assign_배포용\gososil10_assign\gososil_10_과제.cpp(389,19): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  5 of 10 functions (50.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  gososil10_assign.vcxproj -> C:\Users\topia1998\Desktop\gososil10_assign_배포용\x64\Release\gososil10_assign.exe
